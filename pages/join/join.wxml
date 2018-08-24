@@ -1,0 +1,26 @@
+<!--pages/join/join.wxml-->
+<view class="block">
+  <view class="block-title">关于我们</view>
+  <view class="block-con">
+    "水电费水电费第三方范德萨发生辅导方式是的范德萨是的范德萨防辐射的方式大幅度发是的范德萨发送到发送到是的"
+  </view>
+  <view class="block-title">关于我们</view>
+  <view class="block-con">
+    "水电费水电费第三方范德萨发生辅导方式是的范德萨是的范德萨防辐射的方式大幅度发是的范德萨发送到发送到是的"
+  </view>
+  <view class="block-title">关于我们</view>
+  <view class="block-con">
+    "水电费水电费第三方范德萨发生辅导方式是的范德萨是的范德萨防辐射的方式大幅度发是的范德萨发送到发送到是的"
+  </view>
+  <view class="block-title">关于我们</view>
+  <view class="block-con">
+    "水电费水电费第三方范德萨发生辅导方式是的范德萨是的范德萨防辐射的方式大幅度发是的范德萨发送到发送到是的"
+  </view>
+  <view class="block-title">关于我们</view>
+  <view class="block-con">
+    "水电费水电费第三方范德萨发生辅导方式是的范德萨是的范德萨防辐射的方式大幅度发是的范德萨发送到发送到是的"
+  </view>
+  <view>
+    <button bindtap="cell">电话咨询</button>
+  </view>
+</view>

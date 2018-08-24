@@ -1,0 +1,22 @@
+<view class="container">
+  <view class="title">
+    未登录
+    <text selectable>协议</text>
+  </view>
+  <view class="list-wrap" wx:for="{{array}}" wx:key="index">
+    {{item.msg}}
+  </view>
+<swiper indicator-dots="{{indicatorDots}}"
+  autoplay="{{autoplay}}" interval="{{interval}}" duration="{{duration}}">
+  <block wx:for="{{imgList}}" wx:key="index">
+    <swiper-item>
+      <image src="{{item}}" class="slide-image" width="355" height="240"/>
+    </swiper-item>
+  </block>
+</swiper>
+  
+   <movable-area style="height: 200px; width: 200px; background: red;" scale-area>
+    <movable-view style="height: 50px; width: 50px; background: blue;" direction="all"  scale scale-min="0.7" scale-max="4" scale-value="2">
+    </movable-view>
+  </movable-area>
+</view>
